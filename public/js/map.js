@@ -51,6 +51,279 @@ var stores = {
         "postalCode": "201301",
         "state": "New Delhi"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1361022,
+          28.6993636
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(011) 4755-5316",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "3rd Floor, 15 Vaishali, above Karur Vysya Bank, opposite Metro Pillar Number 347, Pitam Pura, New Delhi, Delhi 110034",
+        "city": "Delhi",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "New Delhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0982906,
+          28.627836
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(011) 4755-5316",
+        "phone": "01147555316",
+        "store":"Myntra Mall",
+        "address": "Jail Rd, Pocket UB, Asha Park, Fateh Nagar, New Delhi, Delhi 110018",
+        "city": "Delhi",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "New Delhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2166312,
+          28.7012037
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(011) 4755-5316",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "Banarsi Das Estate, Timarpur Delhi, 110054",
+        "city": "Delhi",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "New Delhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.790292,
+          26.9029448
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(067) 4755-5316",
+        "phone": "01147555316",
+        "store":"Myntra Mall",
+        "address": "Commercial Plot No 1, Sardar Patel Marg, Rajasthan 302001",
+        "city": "Jaipur",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Rajasthan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9331519,
+          26.8456697
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(0123) 4755-5316",
+        "phone": "01147555316",
+        "store":"Myntra Mall",
+        "address": "24, Cantonment Rd, Kaiserbagh Officer's Colony, Qaisar Bagh, Lucknow, Uttar Pradesh 226001",
+        "city": "Lucknow",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "UP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3139655,
+          9.9902607
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(0111) 4755-5388",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "33/1739 A Chakkaraparambu Junction, National Highway Bypass, Vennala, Kochi, Kerala 682028",
+        "city": "Cochin",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Kerela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.759357,
+          18.5808521
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(0124) 4755-5388",
+        "phone": "01147555316",
+        "store":"Myntra Mall",
+        "address": "Patil Nagar, Balewadi, Pune, Maharashtra 411045",
+        "city": "Pune",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Maharashtra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8849996,
+          19.1029211
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(044) 4755-5388",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "Sakinaka Junction, Andheri - Kurla Rd, Andheri East, Mumbai, Maharashtra 400072",
+        "city": "Mumbai",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Maharashtra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8298382,
+          30.459333
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(911) 4745-5356",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "Uttarkashi - Gangotri Rd, Chamba, Uttarakhand 249145",
+        "city": "Chamba",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Uttarakhand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5678784,
+          30.0084955
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(014) 5555-5388",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "Patnitop, Jammu and Kashmir 182142",
+        "city": "Patnitop",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Jammu and Kashmir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8693153,
+          30.6890855
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(012) 4755-5388",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "City Centre, Sector 3, Panchkula, Haryana 134109",
+        "city": "Panchkula",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Haryana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.430617,
+          23.2271076
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(011) 4755-5388",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "HIG 34 Habibganj Road Opp. MP Nagar Zone 2 , Near Jain Mandir Shivaji Nagar, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462016",
+        "city": "Mumbai",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Maharashtra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7371301,
+          25.8611047
+        ]
+      },
+      "properties": {
+        "phoneFormatted": "(011) 4755-5388",
+        "phone": "01147555316",
+        "store":"Myntra Store",
+        "address": "B-113 Buddha colony near Hospito India Patna Bihar 800014 IN, Buddha Colony, Patna, Bihar 800001",
+        "city": "Patna",
+        "country": "India",
+        "crossStreet": "at 15th St NW",
+        "postalCode": "201301",
+        "state": "Bihar"
+      }
     }
   ]
 };
