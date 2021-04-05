@@ -3,7 +3,12 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
   }
-  
+  h1{
+    color:#f03c0f;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px !important;
+    font-weight: bold !important;
+  }
   body {
     color: #404040;
     font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
@@ -74,14 +79,14 @@
   
   .listings .item .title {
     display: block;
-    color: #00853e;
+    color: #f03c0f;
     font-weight: 700;
   }
   
   .listings .item .title small { font-weight: 400; }
   
   .listings .item.active .title,
-  .listings .item .title:hover { color: #8cc63f; }
+  .listings .item .title:hover { color: #f00f40; }
   
   .listings .item.active {
     background-color: #f8f8f8;
